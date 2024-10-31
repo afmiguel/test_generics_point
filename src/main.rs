@@ -1,3 +1,6 @@
+// 1. Unify Point
+// 2. Use T and U
+// 3. Test it using String
 struct PointInteger {
     x: i32,
     y: i32,
